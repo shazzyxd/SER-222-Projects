@@ -1,6 +1,6 @@
 # Hash Tables Project
 
-This project implements a hash table data structure in Java, supporting insertion, deletion, and lookup operations. This project was developed as part of SER 222 coursework at Arizona State University.
+This project implements a linear probe, quad probe, and two probe chain hash table data structure in Java, supporting insertion, deletion, and lookup operations. This project was developed as part of SER 222 coursework at Arizona State University.
 
 ## Requirements
 
