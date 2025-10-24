@@ -1,4 +1,4 @@
-# DEQUE Project
+# Deque Project
 
 This project implements a Double-Ended Queue (DEQE) data structure in Java, supporting insertion and removal at both ends. This project was developed as part of SER 222 coursework at Arizona State University.
 
