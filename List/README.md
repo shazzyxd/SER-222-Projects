@@ -20,4 +20,4 @@ Navigate to the project root, then run the main class from the out folder using 
 
 Windows:
 
-java -cp out edu.ser222.m01_03.CompletedLists
+java -cp out edu.ser222.m01_03.Driver
